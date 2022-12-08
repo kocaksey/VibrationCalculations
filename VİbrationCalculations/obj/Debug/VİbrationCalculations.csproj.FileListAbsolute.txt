@@ -1,0 +1,10 @@
+C:\Users\skocak\source\repos\VİbrationCalculations\VİbrationCalculations\bin\Debug\VİbrationCalculations.exe.config
+C:\Users\skocak\source\repos\VİbrationCalculations\VİbrationCalculations\bin\Debug\VİbrationCalculations.exe
+C:\Users\skocak\source\repos\VİbrationCalculations\VİbrationCalculations\bin\Debug\VİbrationCalculations.pdb
+C:\Users\skocak\source\repos\VİbrationCalculations\VİbrationCalculations\obj\Debug\VİbrationCalculations.csproj.AssemblyReference.cache
+C:\Users\skocak\source\repos\VİbrationCalculations\VİbrationCalculations\obj\Debug\VİbrationCalculations.Form1.resources
+C:\Users\skocak\source\repos\VİbrationCalculations\VİbrationCalculations\obj\Debug\VİbrationCalculations.Properties.Resources.resources
+C:\Users\skocak\source\repos\VİbrationCalculations\VİbrationCalculations\obj\Debug\VİbrationCalculations.csproj.GenerateResource.cache
+C:\Users\skocak\source\repos\VİbrationCalculations\VİbrationCalculations\obj\Debug\VİbrationCalculations.csproj.CoreCompileInputs.cache
+C:\Users\skocak\source\repos\VİbrationCalculations\VİbrationCalculations\obj\Debug\VİbrationCalculations.exe
+C:\Users\skocak\source\repos\VİbrationCalculations\VİbrationCalculations\obj\Debug\VİbrationCalculations.pdb
